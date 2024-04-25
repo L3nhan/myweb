@@ -1,0 +1,19 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#myMenu{
+    color: white;
+    background-color:orange;
+}
+#myMenu a{
+    color: white;
+    text-decoration: none;
+    font-size: 15pt;
+
+}
+#myFooter{
+    color:#CDE;
+    font-family: Tahoma;
+    font-size: x-small;
+    background-color:orange;
+}
